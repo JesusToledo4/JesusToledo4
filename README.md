@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hello, I´m Jesús Toledo.
+## Frontend developer.
 
-<!--
-**JesusToledo4/JesusToledo4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I´m a **Frontend developer**, IT support and Photopher Living in México
 
-Here are some ideas to get you started:
+## 🖥️My carreer
+**Schools**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1.- Computer science at UVEG
+
+2.- Frontend Developer at EDteam
+
+3.- frontend Developer at Codigofacilito
+
+4.- IT Support at Udemy
