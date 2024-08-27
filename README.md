@@ -1,13 +1,12 @@
 <div align="center">
    <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="nz" width="700"/>
-       alt="snake" /></a>
 </div>
 
 <h1 align="center">Hi! 👋, I'm Jesús Toledo</h1>
 
-### Frontend developer and Photographer from México. 
+### Computer Systems Engineer and Frontend Developer from México. 
 
-Computer Systems Engineer student, passionate Self-taught frontend development, I like to be in constant learning, team player and looking for my first experience in web development.
+passionate Self-taught frontend development, I like to be in constant learning about technology.
 
 ## Connect with me:
 
@@ -42,7 +41,7 @@ Computer Systems Engineer student, passionate Self-taught frontend development, 
 ## 🖥️My carreer
 **Schools**
 
-1.- Computer science at UVEG
+1.- Computer System Ingineer at UVEG
 
 2.- Frontend Developer at EDteam
 
@@ -50,21 +49,14 @@ Computer Systems Engineer student, passionate Self-taught frontend development, 
 
 4.- IT Support at Udemy
 
-## Commands most useful
+## School Practices
   
-|command |Description                          |
-|--------|-------------------------------------|
-|ls      | Lista el contenido de un directorio |
-|cd      | Cambiar entre directorios           |
-|yarn    | Instalar dependencias               |
-|clear   | Limpiar la terminal                 |
-|alias   | Listar alias                        |
+I was doing my internship at Grupo Xcaret in the technical support area in the restructuring of templates for the service now platform.
 
-### This is my alias more useful everyday
+On my own time I have been studying and practicing everything about frontend developer technologies since it is an area that I am passionate about and in which I want to develop as a professional.
 
-```
-mostused = ' history | awk {print $2} | sort | uniq-c | heal -n 18'
-```
+within these repositories you will see all the projects I developed in some online learning platforms and others from known developers that teach you how to create projects in different platforms like You tube.
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jesustoledo4&label=Profile%20views&color=0e75b6&style=flat" alt="jesustoledo4" /> </p>
 <hr>
