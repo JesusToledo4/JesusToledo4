@@ -43,11 +43,9 @@ passionate Self-taught frontend development, I like to be in constant learning a
 
 1.- Computer System Ingineer at UVEG
 
-2.- Frontend Developer at EDteam
+2.- Frontend Developer at Educacion IT
 
-3.- frontend Developer at Codigofacilito
 
-4.- IT Support at Udemy
 
 ## School Practices
   
